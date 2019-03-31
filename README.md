@@ -2,7 +2,7 @@
 
 This is the working area for the individual internet-draft to the CoRE Working Group, "CoAP Communication with Alternative Transports".
 
-* [Editor's copy](https://bsilverajan-ietf.github.io/core-coap-alternative-transports/draft-silverajan-core-coap-alternative-transports.html) [![Build Status](https://travis-ci.org/bsilverajan-ietf/core-coap-alternative-transports.svg?branch=master)](https://travis-ci.org/bsilverajan-ietf/core-coap-alternative-transports)
+* [Editor's copy](https://bsilverajan-ietf.github.io/core-coap-alternative-transports/draft-ietf-core-interfaces.html) [![Build Status](https://travis-ci.org/bsilverajan-ietf/core-coap-alternative-transports.svg?branch=master)](https://travis-ci.org/bsilverajan-ietf/core-coap-alternative-transports)
 * [Submitted Draft in IETF Datatracker] (https://datatracker.ietf.org/doc/draft-silverajan-core-coap-alternative-transports/)
 
 ## Building the Draft
